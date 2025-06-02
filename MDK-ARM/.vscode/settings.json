@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "oled.h": "c",
+        "font.h": "c",
+        "cstdint": "c",
+        "u8g2.h": "c",
+        "function.h": "c",
+        "interface.h": "c",
+        "main.h": "c",
+        "algorithm": "c",
+        "string": "c",
+        "array": "c",
+        "string_view": "c",
+        "string.h": "c",
+        "stdint.h": "c",
+        "transmit.h": "c",
+        "stdlib.h": "c",
+        "vector": "c",
+        "gpio.h": "c",
+        "math.h": "c",
+        "tim.h": "c",
+        "my_list.h": "c",
+        "list.h": "c",
+        "i2c.h": "c",
+        "cstdlib": "c"
+    }
+}
